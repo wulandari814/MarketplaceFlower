@@ -297,6 +297,15 @@ Pengujian dapat dilakukan dengan memeriksa fungsi-fungsi berikut:
 | Server Lokal | XAMPP |
 | Editor | Visual Studio Code |
 
+## 📄 Laporan Tugas 11
+
+Dokumentasi laporan pengembangan website Bloomé Flower Shop dapat diakses melalui tautan Google Docs berikut:
+
+📎 **[Lihat Laporan Tugas 11 – Bloomé Flower Shop](https://docs.google.com/document/d/1GYyjBO2-vPfBnuvBVu72-wepqS-0dJhr/edit?usp=sharing&ouid=117528716079922035380&rtpof=true&sd=true)**
+
+Laporan ini berisi dokumentasi pengerjaan dan penjelasan proyek website marketplace Bloomé Flower Shop.
+
+
 ---
 
 **Bloomé Flower Shop**  
